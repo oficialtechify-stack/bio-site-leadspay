@@ -1,0 +1,6 @@
+{
+  "name": "LeadsPay - Link na Bio & Presente VIP",
+  "description": "Site bio oficial para o Instagram da LeadsPay. Siga nosso perfil e participe do funil interativo para resgatar o presente exclusivo de lançamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
